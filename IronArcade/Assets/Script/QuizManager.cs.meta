@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4ca8586a482e44038aa0c519d4e0d023
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionText: {instanceID: 0}
+  - shooterScript: {instanceID: 0}
+  - lancerBallonScript: {instanceID: 0}
+  - bowLogicScript: {instanceID: 0}
+  - RoketBoosterScript: {instanceID: 0}
+  - QuctionResult: {instanceID: 0}
+  - ScoreResult: {instanceID: 0}
+  - QuizPannel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
